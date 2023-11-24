@@ -1,0 +1,20 @@
+ytdl-bot
+=========
+
+a telegram bot written in python to download youtube videos
+
+Demo
+=====
+
+https://t.me/<bot_url>
+
+
+Create your own
+================
+
+git clone https://github.com/shamxl/ytdl-bot.git
+cd ytdl-bot
+export API_ID=<your api id>
+export API_HASH=<your api hash>
+export BOT_TOKEN=<your bot token>
+python main.py
